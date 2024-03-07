@@ -4,7 +4,7 @@ This repository will house all of my content in stats220 .
 
 *Be prepared for some pretty amazing markdown code to come.*
 
-Some words I would use to describe myself :
+Some words I would use to describe myself 🥵🥵:
 -
 - Hot
 - Sexy
@@ -12,7 +12,7 @@ Some words I would use to describe myself :
 - Attractive
 - Cute
 
-My top 3 movies at the moment:
+My top 3 movies at the moment 🎬🍿:
 -
 1. Star Wars: Revenge of the Sith
 2. Oppenheimer
